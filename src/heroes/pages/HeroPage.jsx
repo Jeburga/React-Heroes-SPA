@@ -6,7 +6,6 @@ export const HeroPage = () => {
   const { id } = useParams();
 
   const hero = useMemo( () => getHeroById( id ), [ id ] ); 
-  console.log(hero);
 
   const navigate = useNavigate();
 
