@@ -1,7 +1,5 @@
 # React Heroes SPA
 
-![Captura de pantalla 2025-01-02 170024](https://github.com/user-attachments/assets/407f784a-e4bd-4b77-be73-428a176a1186)
-
 ## Descripción
 
 React Heroes SPA es una aplicación interactiva desarrollada con React, diseñada para explorar diferentes personajes de los universos Marvel y DC Comics. Este proyecto incluye características avanzadas como el uso de rutas protegidas, una barra de búsqueda funcional y persistencia de datos para recordar en qué página el usuario quedó.
